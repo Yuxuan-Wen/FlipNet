@@ -98,6 +98,12 @@ can be summarized as follows:
 
     The default `OPENCV_VERSION` in the Makefile is 3; change it to 2 if needed.
 
+## Model zoo
+
+| Backbone  | Dataset | F1 / Acc | Checkpoint |
+| --------- | ------- | -------- | ---------- |
+| ResNet-34 | CULane  | 76.2     | [Google Drive](https://drive.google.com/file/d/1aV7swWE1wOnNoosatdOSf7aUx0NvFX5t/view?usp=drive_link) |
+
 ## Training
 
 ```Shell
