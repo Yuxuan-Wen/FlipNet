@@ -1,0 +1,6 @@
+file: work_dirs/CULane/20221115_023311_lr_3e-02_b_5/txt/out7_cross.txt
+tp: 0 fp: 1355 fn: 0
+precision: 0
+recall: -1
+Fmeasure: 0
+

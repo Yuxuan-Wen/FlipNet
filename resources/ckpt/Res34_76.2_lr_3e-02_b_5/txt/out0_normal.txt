@@ -1,0 +1,6 @@
+file: work_dirs/CULane/20221115_023311_lr_3e-02_b_5/txt/out0_normal.txt
+tp: 30288 fp: 2153 fn: 2489
+precision: 0.933633
+recall: 0.924063
+Fmeasure: 0.928823
+

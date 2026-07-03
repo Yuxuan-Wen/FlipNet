@@ -1,0 +1,4 @@
+.DS_Store
+resources/ckpt/Res34_76.2_lr_3e-02_b_5/flipnet.pth
+__pycache__/
+*.pyc
